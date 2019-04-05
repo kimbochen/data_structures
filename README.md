@@ -8,7 +8,7 @@
 
 ## Reflections
 * All projects were maintained with version control.
-  Unfortunately, I didn't know about `git push` then, so all commits are lost after folder rearrangements.
-  But I realised the importance of code maintanence during processes of project development.
-* This is the first time I have encountered problems with no _correct_ answer.
-  It forced me to come up with original solutions and give up searching for the best answer.
+  Unfortunately, I didn't know about `git push` then, so all commits were lost after folder rearrangements.
+  But I realised the importance of code maintanence during project developments.
+* Project 1 is the first time I have encountered problems with no _correct_ answer.
+  It forced me to come up with original solutions and give up searching for the be-all algorithm.
